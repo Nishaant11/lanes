@@ -2,7 +2,7 @@
 
 A Kanban board for small teams. React + TypeScript on the front, Supabase (Postgres, anonymous auth, RLS, realtime) behind it.
 
-**Live:** _add your Vercel URL here_
+**Live:** https://lanes-xi.vercel.app
 
 ![Board](docs/board.png)
 
